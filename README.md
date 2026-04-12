@@ -10,6 +10,14 @@
 In part 1 of this project i am suppose to build the first section of a chat application. This application includes three classes (Login.java, MainApp.java and LoginTest.java)
 
 ---
+## Features 
+- Username Validation
+- Password Validation
+- Cell Phone Number Validation
+
+---
+
+
 
 
 
