@@ -17,8 +17,8 @@ In part 1 of this project i am suppose to build the first section of a chat appl
 ### Password Validation
 Ensure that password is >= 8 , has a capital letter , a number and a special character 
 
-
-- Cell Phone Number Validation
+### Cell Phone Number Validation
+Ensure that cell phone number has the correct international code (+27)
 
 ---
 
