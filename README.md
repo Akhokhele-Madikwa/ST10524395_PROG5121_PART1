@@ -12,7 +12,7 @@ In part 1 of this project i am suppose to build the first section of a chat appl
 ---
 ## Features 
 
-###Username Validation
+### Username Validation
 -Ensure that the username has all requrirements : Underscore and not more than five characters
 
 ### Password Validation
